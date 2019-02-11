@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Broeser Opened]]>
+    </line>
+    <line>
+      <![CDATA[Application Login]]>
+    </line>
+    <line>
+      <![CDATA[ScreenShotTaken]]>
+    </line>
+    <line>
+      <![CDATA[Application is Logout]]>
+    </line>
+    <line>
+      <![CDATA[Browser Closed]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="53847" started-at="2019-02-11T09:56:27Z" finished-at="2019-02-11T09:57:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="53847" started-at="2019-02-11T09:56:27Z" finished-at="2019-02-11T09:57:21Z">
+      <class name="com.hrms.TestScripts.TC_001">
+        <test-method status="PASS" signature="allMethods()[pri:0, instance:com.hrms.TestScripts.TC_001@5dfcfece]" name="allMethods" duration-ms="53782" started-at="2019-02-11T15:26:27Z" finished-at="2019-02-11T15:27:21Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Broeser Opened]]>
+            </line>
+            <line>
+              <![CDATA[Application Login]]>
+            </line>
+            <line>
+              <![CDATA[ScreenShotTaken]]>
+            </line>
+            <line>
+              <![CDATA[Application is Logout]]>
+            </line>
+            <line>
+              <![CDATA[Browser Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- allMethods -->
+      </class> <!-- com.hrms.TestScripts.TC_001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
