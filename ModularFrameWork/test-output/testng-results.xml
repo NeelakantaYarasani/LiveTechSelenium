@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="173" started-at="2019-02-10T09:54:22Z" finished-at="2019-02-10T09:54:22Z">
+    <groups>
+      <group name="functional">
+        <method signature="GroupExceution.createUserNine()[pri:0, instance:com.hrms.TestScripts.GroupExceution@23ceabc1]" name="createUserNine" class="com.hrms.TestScripts.GroupExceution"/>
+        <method signature="GroupExceution.createUserOne()[pri:0, instance:com.hrms.TestScripts.GroupExceution@23ceabc1]" name="createUserOne" class="com.hrms.TestScripts.GroupExceution"/>
+        <method signature="GroupExceution.createUserSeven()[pri:0, instance:com.hrms.TestScripts.GroupExceution@23ceabc1]" name="createUserSeven" class="com.hrms.TestScripts.GroupExceution"/>
+        <method signature="GroupExceution.createUserTwo()[pri:0, instance:com.hrms.TestScripts.GroupExceution@23ceabc1]" name="createUserTwo" class="com.hrms.TestScripts.GroupExceution"/>
+      </group> <!-- functional -->
+      <group name="santity">
+        <method signature="GroupExceution.createUserEight()[pri:0, instance:com.hrms.TestScripts.GroupExceution@23ceabc1]" name="createUserEight" class="com.hrms.TestScripts.GroupExceution"/>
+        <method signature="GroupExceution.createUserFour()[pri:0, instance:com.hrms.TestScripts.GroupExceution@23ceabc1]" name="createUserFour" class="com.hrms.TestScripts.GroupExceution"/>
+        <method signature="GroupExceution.createUserSix()[pri:0, instance:com.hrms.TestScripts.GroupExceution@23ceabc1]" name="createUserSix" class="com.hrms.TestScripts.GroupExceution"/>
+      </group> <!-- santity -->
+    </groups>
+    <test name="Test" duration-ms="173" started-at="2019-02-10T09:54:22Z" finished-at="2019-02-10T09:54:22Z">
+      <class name="com.hrms.TestScripts.GroupExceution">
+        <test-method status="PASS" signature="createUserEight()[pri:0, instance:com.hrms.TestScripts.GroupExceution@23ceabc1]" name="createUserEight" duration-ms="33" started-at="2019-02-10T15:24:22Z" finished-at="2019-02-10T15:24:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserEight -->
+        <test-method status="PASS" signature="createUserFour()[pri:0, instance:com.hrms.TestScripts.GroupExceution@23ceabc1]" name="createUserFour" duration-ms="4" started-at="2019-02-10T15:24:22Z" finished-at="2019-02-10T15:24:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserFour -->
+        <test-method status="PASS" signature="createUserNine()[pri:0, instance:com.hrms.TestScripts.GroupExceution@23ceabc1]" name="createUserNine" duration-ms="6" started-at="2019-02-10T15:24:22Z" finished-at="2019-02-10T15:24:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserNine -->
+        <test-method status="PASS" signature="createUserOne()[pri:0, instance:com.hrms.TestScripts.GroupExceution@23ceabc1]" name="createUserOne" duration-ms="5" started-at="2019-02-10T15:24:22Z" finished-at="2019-02-10T15:24:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserOne -->
+        <test-method status="PASS" signature="createUserSeven()[pri:0, instance:com.hrms.TestScripts.GroupExceution@23ceabc1]" name="createUserSeven" duration-ms="4" started-at="2019-02-10T15:24:22Z" finished-at="2019-02-10T15:24:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserSeven -->
+        <test-method status="PASS" signature="createUserSix()[pri:0, instance:com.hrms.TestScripts.GroupExceution@23ceabc1]" name="createUserSix" duration-ms="23" started-at="2019-02-10T15:24:22Z" finished-at="2019-02-10T15:24:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserSix -->
+        <test-method status="PASS" signature="createUserTwo()[pri:0, instance:com.hrms.TestScripts.GroupExceution@23ceabc1]" name="createUserTwo" duration-ms="8" started-at="2019-02-10T15:24:22Z" finished-at="2019-02-10T15:24:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserTwo -->
+      </class> <!-- com.hrms.TestScripts.GroupExceution -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
